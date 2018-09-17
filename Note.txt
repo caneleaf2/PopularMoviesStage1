@@ -1,0 +1,25 @@
+
+https://www.themoviedb.org/
+https://developers.themoviedb.org/3/getting-started/introduction
+
+30f768fcd8b3e61c29aef0a7c3046800
+
+
+TMDB example:
+https://api.themoviedb.org/3/movie/550?api_key=30f768fcd8b3e61c29aef0a7c3046800
+
+https://api.themoviedb.org/3/search/movie?api_key={api_key}&query=Jack+Reacher
+
+
+http://api.themoviedb.org/3/disover/movie?sort_by=popularity.desc&api_key=[your key]
+
+
+http://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=30f768fcd8b3e61c29aef0a7c3046800
+
+https://api.themoviedb.org/3/movie/[ID]/Videos?api_key=[your key]
+
+
+remove the api_key
+
+
+http://api.themoviedb.org/3/movie/popular?api_key=30f768fcd8b3e61c29aef0a7c3046800
