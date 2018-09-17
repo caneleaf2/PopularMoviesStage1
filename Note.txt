@@ -23,3 +23,15 @@ remove the api_key
 
 
 http://api.themoviedb.org/3/movie/popular?api_key=30f768fcd8b3e61c29aef0a7c3046800
+
+
+https://docs.google.com/document/d/1ZlN1fUsCSKuInLECcJkslIqvpKlP7jWL2TP9m6UiA6I/pub?embedded=true
+https://www.themoviedb.org/documentation/api
+
+https://api.themoviedb.org/3/search/movie?api_key=30f768fcd8b3e61c29aef0a7c3046800&query=whiplash&language=de-DE&region=DE
+
+https://plus.google.com/events/cp34hn012hl0287vc39eu76k05k?authkey=COyZp_vmhIvrNg
+
+https://github.com/udacity/android-custom-arrayadapter/tree/gridview
+
+https://github.com/google/gson/blob/master/UserGuide.md
