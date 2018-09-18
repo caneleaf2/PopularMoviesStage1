@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     defaultConfig {
         applicationId "com.udacityclass.android.popularmovies"
-        minSdkVersion 10
+        minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"

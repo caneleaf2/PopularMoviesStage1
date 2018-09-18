@@ -27,7 +27,7 @@ public class NetworkUtils {
     final static String TMBD_API_KEY="30f768fcd8b3e61c29aef0a7c3046800";
     final static String TMDB_POPULAR_MOVIES="http://api.themoviedb.org/3/movie/popular?api_key="+TMBD_API_KEY;
 
-    public static URL buildUrl() throws MalformedURLException{
+    public static URL buildUrl() throws Exception{
         return new URL(TMDB_POPULAR_MOVIES);
 //        System.out.println("TMDB Movies:"+TMDB_POPULAR_MOVIES);
 //

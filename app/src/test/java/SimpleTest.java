@@ -25,8 +25,8 @@ public class SimpleTest {
 
         assertTrue(true);
     }
-    Test
-    @
+
+    @Test
     public void testGetAllImagePath() throws Exception{
         List<Movie> movies= NetworkUtils.getMovieDataFromJson(NetworkUtils.getResponseFromHttpUrl(NetworkUtils.buildUrl()));
         movies.forEach(i -> System.out.println(i.getPoster_path()));
